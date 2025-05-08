@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 323c877b2eed9e39d16caffb12b91519e0ef53f9 vlogaralom40 <42271661-vlogaralom40@users.noreply.replit.com> 1746588604 +0000	commit (initial): Initial commit
+323c877b2eed9e39d16caffb12b91519e0ef53f9 f1aa385fd03a665b7cd9d885223c7f6cbd2b090c vlogaralom40 <42271661-vlogaralom40@users.noreply.replit.com> 1746588604 +0000	commit: Initial checkpoint
+f1aa385fd03a665b7cd9d885223c7f6cbd2b090c 613898c73dce544bdf4d5828164baf9d6d762402 vlogaralom40 <42271661-vlogaralom40@users.noreply.replit.com> 1746589379 +0000	commit: Initialize project with core features and basic user interface
+613898c73dce544bdf4d5828164baf9d6d762402 6650c5b030da0d1e41f492adf792566cb8c34724 vlogaralom40 <42271661-vlogaralom40@users.noreply.replit.com> 1746605054 +0000	commit: Add ability to download a backup of the entire project as a ZIP file

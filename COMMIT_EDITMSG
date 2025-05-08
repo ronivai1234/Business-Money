@@ -1,0 +1,7 @@
+Add ability to download a backup of the entire project as a ZIP file
+
+Adds the 'zip' package to the Nix environment to enable project backup functionality.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 018a520e-79d3-467d-9d5b-6af9d30313ef
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/f84d7e45-ca2b-4fb0-acfa-937fa2f8b249/6c049585-0dc0-41b3-b4e0-3c5a4f1fc719.jpg
